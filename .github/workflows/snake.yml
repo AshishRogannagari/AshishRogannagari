@@ -14,15 +14,21 @@ jobs:
         with:
           github_user_name: AshishRogannagari  # Your GitHub username
           outputs: |
-            github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: snake-artifact
-          path: github-contribution-grid-snake.svg
+          path: dist/github-contribution-grid-snake.svg
 
-      - uses: actions/checkout@v3
-      - uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: output
-          folder: .
+      - uses: actions/checkout@v4
+
+      - name: Commit and Push Snake Animation
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -B output
+          mv dist/github-contribution-grid-snake.svg ./
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update Snake Animation"
+          git push -f origin output
