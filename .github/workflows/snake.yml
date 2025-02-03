@@ -10,25 +10,35 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4  # Checkout the repository
         with:
-          github_user_name: AshishRogannagari  # Your GitHub username
+          persist-credentials: false  # Prevent permission issues
+
+      - name: Set Git User
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: AshishRogannagari  # Replace with your GitHub username
           outputs: |
             dist/github-contribution-grid-snake.svg
+
+      - name: Change File Permissions
+        run: |
+          chmod +x dist/github-contribution-grid-snake.svg
+          mv dist/github-contribution-grid-snake.svg .
 
       - uses: actions/upload-artifact@v4
         with:
           name: snake-artifact
-          path: dist/github-contribution-grid-snake.svg
-
-      - uses: actions/checkout@v4
+          path: github-contribution-grid-snake.svg
 
       - name: Commit and Push Snake Animation
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
           git checkout -B output
-          mv dist/github-contribution-grid-snake.svg ./
           git add github-contribution-grid-snake.svg
           git commit -m "Update Snake Animation"
           git push -f origin output
