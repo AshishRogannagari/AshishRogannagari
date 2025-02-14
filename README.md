@@ -33,8 +33,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-326CE5?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Redshift-8B0000?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
@@ -54,21 +53,24 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+
 ---
 
-## 🚀 Featured Project: **SheetBuddy**  
-📌 **A Powerful EDA Automation Library with 7K+ Users!**  
+# 🚀 [SheetBuddy](https://github.com/AshishRogannagari/SheetBuddy) – A Powerful EDA Automation Library 📊  
 
-### 🔹 [SheetBuddy](https://github.com/AshishRogannagari/SheetBuddy)  
-✅ **Automates Exploratory Data Analysis (EDA)** 📊  
-✅ **Processes CSV, JSON, API data & generates Excel reports**  
-✅ **Identifies outliers, correlations, and null values**  
-✅ **Supports styled Excel sheets with visualizations**  
-✅ **Used by over 7,000 developers & data analysts worldwide** 🌍  
+### 🔥 **Automate Data Analysis & Uncover Insights in Seconds!**  
+
+✅ **Seamless EDA Automation** – No more manual exploration!  
+✅ **Works with CSV, JSON & API Data** – Supports multiple formats effortlessly.  
+✅ **Instant Excel Reports** – Generates **styled**, **insightful** Excel files!  
+✅ **Smart Analytics** – Detects **outliers, correlations, missing values** & more.  
+✅ **Powerful Visualizations** – Histograms, heatmaps, and outlier plots included!  
+✅ **Loved by 7k+ Developers & Data Analysts Worldwide** 🌍  
+
+🚀 **Supercharge your Data Analysis – Get Started Today!**  
 
 <p align="center">
   <a href="https://github.com/AshishRogannagari/SheetBuddy">
@@ -87,9 +89,9 @@
 ## 🌟 Open Source Contributions  
 📌 **Active in the Data Engineering Community**  
 - 🚀 **[SheetBuddy](https://github.com/AshishRogannagari/SheetBuddy)** → Automating EDA (7K+ Users)  
-- 🏗 **[AWS Data Pipelines](https://github.com/)** → Optimizing Redshift & Glue workflows  
-- 🔍 **[Kafka Streaming Solutions](https://github.com/)** → Building real-time processing  
-- ✍ **[BigQuery Performance Guide](https://github.com/)** → Optimized cost-efficient querying  
+- 🏗 **[AWS Data Pipelines](https://github.com/Ashishrogannagari)** → Optimizing Redshift & Glue workflows  
+- 🔍 **[Kafka Streaming Solutions](https://github.com/Ashishrogannagari)** → Building real-time processing  
+- ✍ **[BigQuery Performance Guide](https://github.com/Ashishrogannagari)** → Optimized cost-efficient querying  
 
 ---
 
