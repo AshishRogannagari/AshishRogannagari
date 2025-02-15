@@ -1,4 +1,7 @@
-<h1 align="center">Hey there, I'm Aashish Roganagari! 👋</h1>
+<h1 align="center">Hey there, I'm Aashish Roganagari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  <a href="https://www.linkedin.com/in/aashishroganagari" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a></h1
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=0077B6&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+AWS+Certified+%7C+Big+Data" alt="Typing SVG" />
@@ -115,3 +118,7 @@
 
 🔥 **_"Transforming Data into Meaningful Insights! 🚀"_**  
 💡 Always Learning | Always Building | Always Innovating  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+</p>
+
