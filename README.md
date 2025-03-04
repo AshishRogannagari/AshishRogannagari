@@ -83,7 +83,7 @@
 
 🔗 **Try it now!** → `pip install sheetbuddy`  
 
-📖 **Documentation:** [SheetBuddy Full Docs](https://github.com/AshishRogannagari/SheetBuddy/wiki](https://sheetbuddy.readthedocs.io/en/latest/))  
+📖 **Documentation:** [SheetBuddy Full Docs](https://sheetbuddy.readthedocs.io/en/latest/) 
 
 🛠️ **Want to Contribute?** Fork & send PRs! Open-source contributors are welcome!  
 
