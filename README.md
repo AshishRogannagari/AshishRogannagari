@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Aashish Rogannagari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  <a href="https://www.linkedin.com/in/aashishroganagari" target="_blank">
+<h1 align="center">Hey there, I'm Ashish Rogannagari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  <a href="https://www.linkedin.com/in/aashishroganagari" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a></h1
 
@@ -71,7 +71,7 @@
 ✅ **Instant Excel Reports** – Generates **styled**, **insightful** Excel files!  
 ✅ **Smart Analytics** – Detects **outliers, correlations, missing values** & more.  
 ✅ **Powerful Visualizations** – Histograms, heatmaps, and outlier plots included!  
-✅ **Loved by 7k+ Developers & Data Analysts Worldwide** 🌍  
+✅ **Loved by 8k+ Developers & Data Analysts Worldwide** 🌍  
 
 🚀 **Supercharge your Data Analysis – Get Started Today!**  
 
